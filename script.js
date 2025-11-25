@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://dicom2nifti-backend.onrender.com/convert-dicom";
+const BACKEND_URL = "https://dicom2nifti-backend.onrender.com/convert";
 
 const fileInput = document.getElementById("file");
 const button = document.getElementById("convertBtn");
